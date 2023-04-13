@@ -1,0 +1,3 @@
+INSERT INTO tb_paciente (id, cpf, convenio, email, mae, nascimento, nome, pai, sexo, sobrenome, telefone) VALUES
+                                                                                                                    (1, '08651315171', 'Amil', 'lorenzo@gmail.com', 'Marina', '1993-12-15 14:20:00.000000', 'Lorenzo', 'Pablo', 'masculino', 'Barros', 999922222),
+                                                                                                                    (2, '76651315171', 'Bradesco', 'marcos@gmail.com', 'Cristina', '1973-02-15 14:20:00.000000', 'Marcos', 'Jose', 'masculino', 'Lima', 999923332);
